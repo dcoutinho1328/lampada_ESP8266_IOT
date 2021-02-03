@@ -25,7 +25,7 @@ bool isConnected = false;
 
 int state = false;
 
-ESP8266WebServer server(--INSIRA AQUI A PORTA PELA QUAL DESEJA ACESSAR O SERVIDOR (PADRÃO: 80)--);
+ESP8266WebServer server(80); //Pode ser alterado para um número aleatório. Caso altere, basta informar no IP. Ex: 192.168.0.25:2587 (caso você opte por utilizar 2587, por exemplo) 
 
 void handleRoot(){
   server.sendHeader("Location", "/index.html", true);   //Redirect to our html web page
