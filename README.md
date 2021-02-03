@@ -23,7 +23,7 @@
   - Você deve adicionar a ferramenta para gravar arquivos na memória flash da placa no link: https://github.com/esp8266/arduino-esp8266fs-plugin/releases/tag/0.5.0 (para isso, baixe o arquivo .zip e extraia na pasta 'tools' do diretório de instalação da arduino IDE. Para descobrir o diretório de instalação, vá em Arquivo-> Preferências e olhe o Local do Sketchbook. Caso nesse local não exista um diretório 'tools', crie um)
   - Lembre-se de alterar os campos da forma --INSIRA *ALGO* AQUI-- nos arquivos .html e .json
   - Para gravar os arquivos manifest.json e index.html na memória, após realizar o passo acima, no ArduinoIDE vá em Ferramentas -> ESP8266 Sketch Data Upload (Isso fará o upload de todos os arquivos do diretório 'data' localizado no mesmo diretório do projeto .ino)
-  -Conecte o módulo ESP8266 ao PC e carregar o código na placa
-  -Alimente o módulo com uma tensão de 5V e ele estará funcionando
+  - Conecte o módulo ESP8266 ao PC e carregar o código na placa
+  - Alimente o módulo com uma tensão de 5V e ele estará funcionando
   
   ## Futuramente: Tutorial em vídeo
