@@ -1,0 +1,17 @@
+{
+  "name": "Quarto do --INSIRA SEU NOME--",
+  "short_name": "Quarto do --INSIRA SEU NOME--",
+  "theme_color": "rgba(70,175,175,1)",
+  "background_color": "rgba(182,255,231,0.856)",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/ONOFF.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
