@@ -25,5 +25,6 @@
   - Para gravar os arquivos manifest.json e index.html na memória, após realizar o passo acima, no ArduinoIDE vá em Ferramentas -> ESP8266 Sketch Data Upload (Isso fará o upload de todos os arquivos do diretório 'data' localizado no mesmo diretório do projeto .ino)
   - Conecte o módulo ESP8266 ao PC e carregar o código na placa
   - Alimente o módulo com uma tensão de 5V e ele estará funcionando
+  - Para acessar o servidor, basta digitar o IP atribuído ao módulo no browser de qualquer aparelho conectado à LAN
   
   ## Futuramente: Tutorial em vídeo
